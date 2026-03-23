@@ -1,6 +1,3 @@
-# Ping nodes for v2raymg
-# Generated at 2026-03-23T13:12:22+08:00
-# source=icmp  total=67
 
 nodes:
     - host: cn-ah-mobile-icmp.istat.online

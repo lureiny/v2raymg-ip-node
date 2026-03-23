@@ -1,6 +1,3 @@
-# Ping nodes for v2raymg
-# Generated at 2026-03-23T13:12:23+08:00
-# source=tcpping  total=72
 
 nodes:
     - host: cn-ah-mobile-tcp.istat.online
@@ -34,7 +31,7 @@ nodes:
       usage:
         - tcp
     - host: cn-cq-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 重庆 重庆市
       isp: TELECOM
       usage:
@@ -136,7 +133,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hb-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖北省 武汉市
       isp: UNICOM
       usage:
@@ -160,7 +157,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hi-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 海南省 海口市
       isp: TELECOM
       usage:
@@ -244,7 +241,7 @@ nodes:
       usage:
         - tcp
     - host: cn-jx-unicom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 江西省
       isp: UNICOM
       usage:
