@@ -1,0 +1,10 @@
+# Only README.md and the two yaml files should be tracked.
+# Ignore everything else.
+*
+!README.md
+!icmp_nodes.yaml
+!tcp_nodes.yaml
+!.github/
+!.github/workflows/
+!.github/workflows/update.yml
+!.gitignore

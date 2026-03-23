@@ -1,0 +1,340 @@
+# Ping nodes for v2raymg
+# Generated at 2026-03-23T13:12:22+08:00
+# source=icmp  total=67
+
+nodes:
+    - host: cn-ah-mobile-icmp.istat.online
+      geo: China, 安徽省 合肥市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-ah-telecom-icmp.istat.online
+      geo: China, 安徽省 合肥市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-ah-unicom-icmp.istat.online
+      geo: China, 安徽省 合肥市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-bj-mobile-icmp.istat.online
+      geo: China, 北京 北京市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-bj-telecom-icmp.istat.online
+      geo: China, 北京 北京市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-bj-unicom-icmp.istat.online
+      geo: China, 北京 北京市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-cq-mobile-icmp.istat.online
+      geo: China, 重庆 重庆市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-cq-telecom-icmp.istat.online
+      geo: China, 重庆 重庆市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-cq-unicom-icmp.istat.online
+      geo: China, 重庆 重庆市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-fj-mobile-icmp.istat.online
+      geo: China, 福建省 福州市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-fj-telecom-icmp.istat.online
+      geo: China, 福建省 厦门市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-gd-mobile-icmp.istat.online
+      geo: China, 广东省 广州市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-gd-telecom-icmp.istat.online
+      geo: China, 广东省 广州市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-gd-unicom-icmp.istat.online
+      geo: China, 广东省 深圳市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-gs-mobile-icmp.istat.online
+      geo: China, 甘肃省 兰州市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-gx-mobile-icmp.istat.online
+      geo: China, 广西 南宁市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-gx-unicom-icmp.istat.online
+      geo: China, 广西 南宁市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-gz-mobile-icmp.istat.online
+      geo: China, 贵州省 贵阳市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-gz-telecom-icmp.istat.online
+      geo: China, 贵州省 贵阳市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-ha-mobile-icmp.istat.online
+      geo: China, 河南省 郑州市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-ha-telecom-icmp.istat.online
+      geo: China, 河南省 洛阳市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-hb-mobile-icmp.istat.online
+      geo: China, 湖北省 武汉市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-hb-telecom-icmp.istat.online
+      geo: China, 湖北省 武汉市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-hb-unicom-icmp.istat.online
+      geo: China, 湖北省 武汉市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-he-mobile-icmp.istat.online
+      geo: China, 河北省 石家庄市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-he-unicom-icmp.istat.online
+      geo: China, 河北省 石家庄市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-hi-mobile-icmp.istat.online
+      geo: China, 海南省 海口市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-hi-unicom-icmp.istat.online
+      geo: China, 海南省 海口市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-hlj-mobile-icmp.istat.online
+      geo: China, 黑龙江省 哈尔滨市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-hlj-telecom-icmp.istat.online
+      geo: China, 黑龙江省 齐齐哈尔市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-hlj-unicom-icmp.istat.online
+      geo: China, 黑龙江省 哈尔滨市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-hn-mobile-icmp.istat.online
+      geo: China, 湖南省 长沙市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-hn-unicom-icmp.istat.online
+      geo: China, 湖南省 长沙市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-jl-mobile-icmp.istat.online
+      geo: China, 吉林省 长春市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-jl-unicom-icmp.istat.online
+      geo: China, 吉林省 长春市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-js-mobile-icmp.istat.online
+      geo: China, 江苏省 南京市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-js-telecom-icmp.istat.online
+      geo: China, 江苏省 南京市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-jx-mobile-icmp.istat.online
+      geo: China, 江西省 南昌市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-jx-unicom-icmp.istat.online
+      geo: China, 江西省 南昌市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-ln-mobile-icmp.istat.online
+      geo: China, 辽宁省 沈阳市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-ln-telecom-icmp.istat.online
+      geo: China, 辽宁省 沈阳市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-nm-mobile-icmp.istat.online
+      geo: China, 内蒙古 呼和浩特市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-nm-telecom-icmp.istat.online
+      geo: China, 内蒙古 呼和浩特市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-nm-unicom-icmp.istat.online
+      geo: China, 内蒙古 呼和浩特市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-nx-mobile-icmp.istat.online
+      geo: China, 宁夏 银川市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-nx-unicom-icmp.istat.online
+      geo: China, 宁夏 银川市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-qh-mobile-icmp.istat.online
+      geo: China, 青海省 西宁市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sc-mobile-icmp.istat.online
+      geo: China, 四川省 成都市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sc-unicom-icmp.istat.online
+      geo: China, 四川省 成都市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-sd-mobile-icmp.istat.online
+      geo: China, 山东省 青岛市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sd-unicom-icmp.istat.online
+      geo: China, 山东省 济南市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-sh-mobile-icmp.istat.online
+      geo: China, 上海 上海市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sh-telecom-icmp.istat.online
+      geo: China, 上海 上海市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-sn-mobile-icmp.istat.online
+      geo: China, 陕西省 西安市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sn-telecom-icmp.istat.online
+      geo: China, 陕西省 西安市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-sx-mobile-icmp.istat.online
+      geo: China, 山西省 太原市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sx-unicom-icmp.istat.online
+      geo: China, 山西省 太原市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-tj-mobile-icmp.istat.online
+      geo: China, 天津 天津市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-tw-telecom-icmp.istat.online
+      geo: China, 台湾省
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-xj-mobile-icmp.istat.online
+      geo: China, 新疆 乌鲁木齐市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-xj-telecom-icmp.istat.online
+      geo: China, 新疆 乌鲁木齐市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-xz-mobile-icmp.istat.online
+      geo: China, 西藏 拉萨市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-xz-unicom-icmp.istat.online
+      geo: China, 西藏 拉萨市
+      isp: UNICOM
+      usage:
+        - icmp
+    - host: cn-yn-mobile-icmp.istat.online
+      geo: China, 云南省 昆明市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-yn-telecom-icmp.istat.online
+      geo: China, 云南省 昆明市
+      isp: TELECOM
+      usage:
+        - icmp
+    - host: cn-zj-mobile-icmp.istat.online
+      geo: China, 浙江省 杭州市
+      isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-zj-unicom-icmp.istat.online
+      geo: China, 浙江省 杭州市
+      isp: UNICOM
+      usage:
+        - icmp

@@ -1,0 +1,437 @@
+# Ping nodes for v2raymg
+# Generated at 2026-03-23T13:12:23+08:00
+# source=tcpping  total=72
+
+nodes:
+    - host: cn-ah-mobile-tcp.istat.online
+      port: 80
+      geo: China, 安徽省 合肥市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-ah-telecom-tcp.istat.online
+      port: 443
+      geo: China, 安徽省 宿州市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-ah-unicom-tcp.istat.online
+      port: 443
+      geo: China, 安徽省 合肥市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-bj-unicom-tcp.istat.online
+      port: 80
+      geo: China, 北京 北京市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-cq-mobile-tcp.istat.online
+      port: 443
+      geo: China, 重庆 重庆市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-cq-telecom-tcp.istat.online
+      port: 443
+      geo: China, 重庆 重庆市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-cq-unicom-tcp.istat.online
+      port: 443
+      geo: China, 重庆 重庆市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-fj-mobile-tcp.istat.online
+      port: 443
+      geo: China, 福建省 福州市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-fj-telecom-tcp.istat.online
+      port: 443
+      geo: China, 福建省 泉州市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-fj-unicom-tcp.istat.online
+      port: 80
+      geo: China, 福建省 漳州市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-gd-mobile-tcp.istat.online
+      port: 80
+      geo: China, 广东省
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-gd-telecom-tcp.istat.online
+      port: 80
+      geo: China, 广东省 佛山市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-gd-unicom-tcp.istat.online
+      port: 80
+      geo: China, 广东省 佛山市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-gs-mobile-tcp.istat.online
+      port: 443
+      geo: China, 甘肃省 兰州市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-gx-mobile-tcp.istat.online
+      port: 443
+      geo: China, 广西 南宁市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-gx-unicom-tcp.istat.online
+      port: 443
+      geo: China, 广西 南宁市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-gz-mobile-tcp.istat.online
+      port: 443
+      geo: China, 贵州省 安顺市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-gz-telecom-tcp.istat.online
+      port: 443
+      geo: China, 贵州省 贵阳市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-gz-unicom-tcp.istat.online
+      port: 443
+      geo: China, 贵州省 贵阳市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-ha-telecom-tcp.istat.online
+      port: 443
+      geo: China, 河南省 开封市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-ha-unicom-tcp.istat.online
+      port: 443
+      geo: China, 河南省 郑州市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-hb-mobile-tcp.istat.online
+      port: 443
+      geo: China, 湖北省 武汉市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-hb-unicom-tcp.istat.online
+      port: 443
+      geo: China, 湖北省 武汉市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-he-telecom-tcp.istat.online
+      port: 80
+      geo: China, 河北省 沧州市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-he-unicom-tcp.istat.online
+      port: 443
+      geo: China, 河北省 唐山市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-hi-mobile-tcp.istat.online
+      port: 443
+      geo: China, 海南省 海口市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-hi-telecom-tcp.istat.online
+      port: 443
+      geo: China, 海南省 海口市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-hi-unicom-tcp.istat.online
+      port: 443
+      geo: China, 海南省 海口市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-hlj-mobile-tcp.istat.online
+      port: 443
+      geo: China, 黑龙江省 佳木斯市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-hlj-unicom-tcp.istat.online
+      port: 443
+      geo: China, 黑龙江省 鹤岗市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-hn-mobile-tcp.istat.online
+      port: 443
+      geo: China, 湖南省 深圳
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-hn-telecom-tcp.istat.online
+      port: 443
+      geo: China, 湖南省 长沙市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-hn-unicom-tcp.istat.online
+      port: 443
+      geo: China, 湖南省 长沙市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-jl-telecom-tcp.istat.online
+      port: 443
+      geo: China, 吉林省 长春市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-jl-unicom-tcp.istat.online
+      port: 443
+      geo: China, 吉林省 四平市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-js-mobile-tcp.istat.online
+      port: 80
+      geo: China, 江苏省 重庆市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-js-telecom-tcp.istat.online
+      port: 80
+      geo: China, 江苏省 连云港市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-js-unicom-tcp.istat.online
+      port: 80
+      geo: China, 江苏省 扬州市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-jx-mobile-tcp.istat.online
+      port: 443
+      geo: China, 江西省 南昌市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-jx-telecom-tcp.istat.online
+      port: 443
+      geo: China, 江西省 赣州市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-jx-unicom-tcp.istat.online
+      port: 80
+      geo: China, 江西省
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-ln-mobile-tcp.istat.online
+      port: 443
+      geo: China, 辽宁省
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-ln-telecom-tcp.istat.online
+      port: 443
+      geo: China, 辽宁省 丹东市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-ln-unicom-tcp.istat.online
+      port: 443
+      geo: China, 辽宁省 成都
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-mobile-tcp.istat.online
+      port: 443
+      geo: China
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-nm-mobile-tcp.istat.online
+      port: 443
+      geo: China, 内蒙古 呼和浩特市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-nx-mobile-tcp.istat.online
+      port: 443
+      geo: China, 宁夏 石嘴山市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-qh-mobile-tcp.istat.online
+      port: 443
+      geo: China, 青海省 西宁市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-qh-telecom-tcp.istat.online
+      port: 443
+      geo: China, 青海省 西宁市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sc-mobile-tcp.istat.online
+      port: 443
+      geo: China, 四川省 成都市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-sd-mobile-tcp.istat.online
+      port: 443
+      geo: China, 山东省 济南市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-sd-telecom-tcp.istat.online
+      port: 443
+      geo: China, 山东省 济南市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sd-unicom-tcp.istat.online
+      port: 443
+      geo: China, 山东省 济南市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-sh-mobile-tcp.istat.online
+      port: 443
+      geo: China, 上海 上海市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-sh-telecom-tcp.istat.online
+      port: 443
+      geo: China, 上海 上海市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sh-unicom-tcp.istat.online
+      port: 443
+      geo: China, 上海 上海市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-sn-mobile-tcp.istat.online
+      port: 443
+      geo: China, 陕西省 榆林市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-sn-telecom-tcp.istat.online
+      port: 443
+      geo: China, 陕西省 西安市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sn-unicom-tcp.istat.online
+      port: 443
+      geo: China, 陕西省 西安市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-sx-mobile-tcp.istat.online
+      port: 80
+      geo: China, 山西省 太原市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-sx-telecom-tcp.istat.online
+      port: 80
+      geo: China, 山西省 太原市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sx-unicom-tcp.istat.online
+      port: 80
+      geo: China, 山西省 太原市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-tj-mobile-tcp.istat.online
+      port: 443
+      geo: China, 天津 天津市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-tj-unicom-tcp.istat.online
+      port: 443
+      geo: China, 天津 天津市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-xj-mobile-tcp.istat.online
+      port: 443
+      geo: China, 新疆 喀什
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-xj-telecom-tcp.istat.online
+      port: 443
+      geo: China, 新疆 乌鲁木齐市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-xj-unicom-tcp.istat.online
+      port: 443
+      geo: China, 新疆 乌鲁木齐市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-yn-telecom-tcp.istat.online
+      port: 443
+      geo: China, 云南省 昆明市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-yn-unicom-tcp.istat.online
+      port: 443
+      geo: China, 云南省 玉溪市
+      isp: UNICOM
+      usage:
+        - tcp
+    - host: cn-zj-mobile-tcp.istat.online
+      port: 80
+      geo: China, 浙江省 杭州市
+      isp: MOBILE
+      usage:
+        - tcp
+    - host: cn-zj-telecom-tcp.istat.online
+      port: 80
+      geo: China, 浙江省 宁波市
+      isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-zj-unicom-tcp.istat.online
+      port: 80
+      geo: China, 浙江省 宁波市
+      isp: UNICOM
+      usage:
+        - tcp
