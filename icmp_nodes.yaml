@@ -240,6 +240,11 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
+    - host: cn-sc-telecom-icmp.istat.online
+      geo: China, 四川省 成都市
+      isp: TELECOM
+      usage:
+        - icmp
     - host: cn-sc-unicom-icmp.istat.online
       geo: China, 四川省 成都市
       isp: UNICOM
