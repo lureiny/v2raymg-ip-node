@@ -103,7 +103,7 @@ nodes:
       usage:
         - tcp
     - host: cn-gz-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 贵州省 贵阳市
       isp: TELECOM
       usage:
@@ -343,7 +343,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sn-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 陕西省 西安市
       isp: TELECOM
       usage:
