@@ -31,7 +31,7 @@ nodes:
       usage:
         - tcp
     - host: cn-cq-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 重庆 重庆市
       isp: TELECOM
       usage:
@@ -49,7 +49,7 @@ nodes:
       usage:
         - tcp
     - host: cn-fj-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 福建省 泉州市
       isp: TELECOM
       usage:
@@ -103,7 +103,7 @@ nodes:
       usage:
         - tcp
     - host: cn-gz-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 贵州省 贵阳市
       isp: TELECOM
       usage:
@@ -157,7 +157,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hi-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 海南省 海口市
       isp: TELECOM
       usage:
@@ -235,13 +235,13 @@ nodes:
       usage:
         - tcp
     - host: cn-jx-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 江西省 赣州市
       isp: TELECOM
       usage:
         - tcp
     - host: cn-jx-unicom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 江西省
       isp: UNICOM
       usage:
@@ -343,7 +343,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sn-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 陕西省 西安市
       isp: TELECOM
       usage:
@@ -361,7 +361,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sx-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 山西省 太原市
       isp: TELECOM
       usage:
@@ -403,7 +403,7 @@ nodes:
       usage:
         - tcp
     - host: cn-yn-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 云南省 昆明市
       isp: TELECOM
       usage:
