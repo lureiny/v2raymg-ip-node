@@ -241,8 +241,8 @@ nodes:
       usage:
         - tcp
     - host: cn-jx-unicom-tcp.istat.online
-      port: 80
-      geo: China, 江西省 抚州市
+      port: 443
+      geo: China, 江西省
       isp: UNICOM
       usage:
         - tcp
@@ -289,7 +289,7 @@ nodes:
       usage:
         - tcp
     - host: cn-qh-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 青海省 西宁市
       isp: TELECOM
       usage:
@@ -361,7 +361,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sx-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 山西省 太原市
       isp: TELECOM
       usage:
