@@ -270,11 +270,6 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
-    - host: cn-sn-telecom-icmp.istat.online
-      geo: China, 陕西省 西安市
-      isp: TELECOM
-      usage:
-        - icmp
     - host: cn-sx-mobile-icmp.istat.online
       geo: China, 山西省 太原市
       isp: MOBILE
