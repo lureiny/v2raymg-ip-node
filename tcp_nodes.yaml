@@ -133,7 +133,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hb-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖北省 武汉市
       isp: UNICOM
       usage:
@@ -409,7 +409,7 @@ nodes:
       usage:
         - tcp
     - host: cn-yn-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 云南省 玉溪市
       isp: UNICOM
       usage:
