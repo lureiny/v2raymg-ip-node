@@ -253,7 +253,7 @@ nodes:
       usage:
         - tcp
     - host: cn-ln-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 辽宁省 丹东市
       isp: TELECOM
       usage:
