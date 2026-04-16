@@ -235,7 +235,7 @@ nodes:
       usage:
         - tcp
     - host: cn-jx-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 江西省 赣州市
       isp: TELECOM
       usage:
