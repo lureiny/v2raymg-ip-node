@@ -85,7 +85,7 @@ nodes:
       usage:
         - tcp
     - host: cn-gx-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 广西 南宁市
       isp: MOBILE
       usage:
@@ -127,7 +127,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hb-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖北省 武汉市
       isp: MOBILE
       usage:
@@ -181,7 +181,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hn-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖南省 深圳
       isp: MOBILE
       usage:
