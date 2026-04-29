@@ -13,7 +13,7 @@ nodes:
       usage:
         - tcp
     - host: cn-ah-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 安徽省 合肥市
       isp: UNICOM
       usage:
@@ -205,7 +205,7 @@ nodes:
       usage:
         - tcp
     - host: cn-jl-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 吉林省 四平市
       isp: UNICOM
       usage:
@@ -229,7 +229,7 @@ nodes:
       usage:
         - tcp
     - host: cn-jx-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 江西省 南昌市
       isp: MOBILE
       usage:
@@ -313,19 +313,19 @@ nodes:
       usage:
         - tcp
     - host: cn-sd-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 山东省 济南市
       isp: UNICOM
       usage:
         - tcp
     - host: cn-sh-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 上海 上海市
       isp: MOBILE
       usage:
         - tcp
     - host: cn-sh-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 上海 上海市
       isp: TELECOM
       usage:
@@ -337,7 +337,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sn-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 陕西省 榆林市
       isp: MOBILE
       usage:
