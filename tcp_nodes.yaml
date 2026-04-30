@@ -204,12 +204,6 @@ nodes:
       isp: TELECOM
       usage:
         - tcp
-    - host: cn-jl-unicom-tcp.istat.online
-      port: 443
-      geo: China, 吉林省 四平市
-      isp: UNICOM
-      usage:
-        - tcp
     - host: cn-js-mobile-tcp.istat.online
       port: 80
       geo: China, 江苏省 重庆市
