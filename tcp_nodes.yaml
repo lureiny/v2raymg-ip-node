@@ -414,6 +414,12 @@ nodes:
       isp: MOBILE
       usage:
         - tcp
+    - host: cn-zj-telecom-tcp.istat.online
+      port: 443
+      geo: China, 浙江省 宁波市
+      isp: TELECOM
+      usage:
+        - tcp
     - host: cn-zj-unicom-tcp.istat.online
       port: 80
       geo: China, 浙江省 宁波市
