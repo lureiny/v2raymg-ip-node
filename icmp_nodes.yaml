@@ -290,6 +290,11 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
+    - host: cn-tw-telecom-icmp.istat.online
+      geo: China, 台湾省
+      isp: TELECOM
+      usage:
+        - icmp
     - host: cn-xj-mobile-icmp.istat.online
       geo: China, 新疆 乌鲁木齐市
       isp: MOBILE
