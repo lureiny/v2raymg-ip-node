@@ -360,6 +360,12 @@ nodes:
       isp: UNICOM
       usage:
         - tcp
+    - host: cn-tj-mobile-tcp.istat.online
+      port: 443
+      geo: China, 天津 天津市
+      isp: MOBILE
+      usage:
+        - tcp
     - host: cn-tj-unicom-tcp.istat.online
       port: 443
       geo: China, 天津 天津市
