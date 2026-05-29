@@ -319,7 +319,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sh-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 上海 上海市
       isp: TELECOM
       usage:
