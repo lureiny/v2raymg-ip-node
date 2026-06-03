@@ -79,7 +79,7 @@ nodes:
       usage:
         - tcp
     - host: cn-gx-mobile-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 广西 南宁市
       isp: MOBILE
       usage:
@@ -326,7 +326,7 @@ nodes:
         - tcp
     - host: cn-sn-mobile-tcp.istat.online
       port: 443
-      geo: China, 陕西省 西安市
+      geo: China, 陕西省 榆林市
       isp: MOBILE
       usage:
         - tcp
@@ -334,6 +334,12 @@ nodes:
       port: 443
       geo: China, 陕西省 西安市
       isp: TELECOM
+      usage:
+        - tcp
+    - host: cn-sn-unicom-tcp.istat.online
+      port: 443
+      geo: China, 陕西省 西安市
+      isp: UNICOM
       usage:
         - tcp
     - host: cn-sx-mobile-tcp.istat.online
