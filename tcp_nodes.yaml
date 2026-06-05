@@ -56,7 +56,7 @@ nodes:
         - tcp
     - host: cn-fj-unicom-tcp.istat.online
       port: 80
-      geo: China, 福建省 漳州市
+      geo: China, 福建省 福州市
       isp: UNICOM
       usage:
         - tcp
@@ -157,7 +157,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hi-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 海南省 海口市
       isp: TELECOM
       usage:
