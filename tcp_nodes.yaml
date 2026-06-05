@@ -157,7 +157,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hi-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 海南省 海口市
       isp: TELECOM
       usage:
@@ -332,7 +332,7 @@ nodes:
         - tcp
     - host: cn-sn-mobile-tcp.istat.online
       port: 443
-      geo: China, 陕西省 榆林市
+      geo: China, 陕西省 西安市
       isp: MOBILE
       usage:
         - tcp
@@ -340,12 +340,6 @@ nodes:
       port: 443
       geo: China, 陕西省 西安市
       isp: TELECOM
-      usage:
-        - tcp
-    - host: cn-sn-unicom-tcp.istat.online
-      port: 443
-      geo: China, 陕西省 西安市
-      isp: UNICOM
       usage:
         - tcp
     - host: cn-sx-mobile-tcp.istat.online
