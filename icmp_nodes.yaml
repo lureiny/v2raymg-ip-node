@@ -10,6 +10,11 @@ nodes:
       isp: TELECOM
       usage:
         - icmp
+    - host: cn-ah-unicom-icmp.istat.online
+      geo: China, 安徽省 合肥市
+      isp: UNICOM
+      usage:
+        - icmp
     - host: cn-bj-mobile-icmp.istat.online
       geo: China, 北京 北京市
       isp: MOBILE
@@ -135,6 +140,11 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
+    - host: cn-hi-unicom-icmp.istat.online
+      geo: China, 海南省 海口市
+      isp: UNICOM
+      usage:
+        - icmp
     - host: cn-hlj-mobile-icmp.istat.online
       geo: China, 黑龙江省 哈尔滨市
       isp: MOBILE
@@ -153,6 +163,11 @@ nodes:
     - host: cn-hn-mobile-icmp.istat.online
       geo: China, 湖南省 长沙市
       isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-hn-unicom-icmp.istat.online
+      geo: China, 湖南省 长沙市
+      isp: UNICOM
       usage:
         - icmp
     - host: cn-jl-mobile-icmp.istat.online
@@ -230,6 +245,11 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
+    - host: cn-sc-unicom-icmp.istat.online
+      geo: China, 四川省 成都市
+      isp: UNICOM
+      usage:
+        - icmp
     - host: cn-sd-mobile-icmp.istat.online
       geo: China, 山东省 青岛市
       isp: MOBILE
@@ -258,6 +278,11 @@ nodes:
     - host: cn-sx-mobile-icmp.istat.online
       geo: China, 山西省 太原市
       isp: MOBILE
+      usage:
+        - icmp
+    - host: cn-sx-unicom-icmp.istat.online
+      geo: China, 山西省 太原市
+      isp: UNICOM
       usage:
         - icmp
     - host: cn-tj-mobile-icmp.istat.online
@@ -306,7 +331,7 @@ nodes:
       usage:
         - icmp
     - host: cn-zj-unicom-icmp.istat.online
-      geo: China, 浙江省 宁波市
+      geo: China, 浙江省 杭州市
       isp: UNICOM
       usage:
         - icmp
