@@ -295,7 +295,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sd-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 山东省 济南市
       isp: TELECOM
       usage:
