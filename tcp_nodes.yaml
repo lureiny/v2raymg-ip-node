@@ -25,7 +25,7 @@ nodes:
       usage:
         - tcp
     - host: cn-cq-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 重庆 重庆市
       isp: MOBILE
       usage:
