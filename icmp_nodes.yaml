@@ -95,11 +95,6 @@ nodes:
       isp: TELECOM
       usage:
         - icmp
-    - host: cn-gz-unicom-icmp.istat.online
-      geo: China, 贵州省 贵阳市
-      isp: UNICOM
-      usage:
-        - icmp
     - host: cn-ha-mobile-icmp.istat.online
       geo: China, 河南省 郑州市
       isp: MOBILE
