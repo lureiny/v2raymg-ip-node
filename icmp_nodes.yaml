@@ -170,6 +170,11 @@ nodes:
       isp: MOBILE
       usage:
         - icmp
+    - host: cn-jl-telecom-icmp.istat.online
+      geo: China, 吉林省 长春市
+      isp: TELECOM
+      usage:
+        - icmp
     - host: cn-jl-unicom-icmp.istat.online
       geo: China, 吉林省 长春市
       isp: UNICOM
