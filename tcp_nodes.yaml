@@ -7,7 +7,7 @@ nodes:
       usage:
         - tcp
     - host: cn-ah-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 安徽省 宿州市
       isp: TELECOM
       usage:
@@ -127,7 +127,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hb-mobile-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖北省 武汉市
       isp: MOBILE
       usage:
