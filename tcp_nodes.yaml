@@ -43,7 +43,7 @@ nodes:
       usage:
         - tcp
     - host: cn-fj-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 福建省 福州市
       isp: UNICOM
       usage:
@@ -187,7 +187,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sd-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 山东省 济南市
       isp: UNICOM
       usage:
