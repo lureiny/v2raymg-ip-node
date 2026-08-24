@@ -325,6 +325,11 @@ nodes:
       isp: TELECOM
       usage:
         - icmp
+    - host: cn-yn-unicom-icmp.istat.online
+      geo: China, 云南省 昆明市
+      isp: UNICOM
+      usage:
+        - icmp
     - host: cn-zj-mobile-icmp.istat.online
       geo: China, 浙江省 杭州市
       isp: MOBILE
