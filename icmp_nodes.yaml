@@ -66,7 +66,7 @@ nodes:
       usage:
         - icmp
     - host: cn-gd-unicom-icmp.istat.online
-      geo: China, 广东省 广州市
+      geo: China, 广东省 深圳市
       isp: UNICOM
       usage:
         - icmp
