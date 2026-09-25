@@ -7,7 +7,7 @@ nodes:
       usage:
         - tcp
     - host: cn-bj-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 北京 北京市
       isp: UNICOM
       usage:
@@ -85,7 +85,7 @@ nodes:
       usage:
         - tcp
     - host: cn-ha-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 河南省 焦作市
       isp: UNICOM
       usage:
