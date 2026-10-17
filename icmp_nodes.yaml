@@ -146,7 +146,7 @@ nodes:
       usage:
         - icmp
     - host: cn-hlj-telecom-icmp.istat.online
-      geo: China, 黑龙江省 齐齐哈尔市
+      geo: China, 黑龙江省 哈尔滨市
       isp: TELECOM
       usage:
         - icmp
