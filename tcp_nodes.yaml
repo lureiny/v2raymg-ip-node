@@ -13,7 +13,7 @@ nodes:
       usage:
         - tcp
     - host: cn-cq-telecom-tcp.istat.online
-      port: 80
+      port: 443
       geo: China, 重庆 重庆市
       isp: TELECOM
       usage:
@@ -109,7 +109,7 @@ nodes:
       usage:
         - tcp
     - host: cn-hn-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 湖南省 长沙市
       isp: TELECOM
       usage:
