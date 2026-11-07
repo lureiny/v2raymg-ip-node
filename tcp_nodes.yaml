@@ -31,13 +31,13 @@ nodes:
       usage:
         - tcp
     - host: cn-fj-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 福建省 泉州市
       isp: TELECOM
       usage:
         - tcp
     - host: cn-fj-unicom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 福建省 福州市
       isp: UNICOM
       usage:
@@ -187,7 +187,7 @@ nodes:
       usage:
         - tcp
     - host: cn-sn-telecom-tcp.istat.online
-      port: 443
+      port: 80
       geo: China, 陕西省 咸阳市
       isp: TELECOM
       usage:
