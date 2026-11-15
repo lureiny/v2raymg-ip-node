@@ -115,11 +115,6 @@ nodes:
       isp: TELECOM
       usage:
         - icmp
-    - host: cn-hb-unicom-icmp.istat.online
-      geo: China, 湖北省 武汉市
-      isp: UNICOM
-      usage:
-        - icmp
     - host: cn-he-mobile-icmp.istat.online
       geo: China, 河北省 石家庄市
       isp: MOBILE
