@@ -168,6 +168,12 @@ nodes:
       isp: MOBILE
       usage:
         - tcp
+    - host: cn-sd-mobile-tcp.istat.online
+      port: 443
+      geo: China, 山东省 济南市
+      isp: MOBILE
+      usage:
+        - tcp
     - host: cn-sd-telecom-tcp.istat.online
       port: 443
       geo: China, 山东省 济南市
